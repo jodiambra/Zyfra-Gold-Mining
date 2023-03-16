@@ -5,3 +5,4 @@ The purpose of this project is to prepare a prototype of a machine learning mode
 
 ## Conclusions
 Overall, we were able to work with the data we received to complete the project. We ensured the recovery column was calculated correctly, by comparing it with our calculated values. We looked at the distribution of concentrations for the various metals, and saw anomalies, which where removed. The data illustrated the increase in gold concentrations in the final product, and a small amount of gold in the tails. We also looked at the recovery of gold, and compared it with the other metals. Finally, we successfully trained a model that could predict the gold recovery, and we found the decision tree to be the best model to use. Therefore, Zyfra can use this model to optimize their gold ore refining process.
+
